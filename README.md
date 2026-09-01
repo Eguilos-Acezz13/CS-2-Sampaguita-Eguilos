@@ -1,17 +1,42 @@
 # CS-2-Sampaguita-Eguilos
-This program calculates the distance between two points (x1, y1) and (x2, y2) on a 2D plane  using input values and a math library.
 
-import math
+##This program calculates the distance between two points (x1, y1) and (x2, y2) on a 2D plane  using input values and a math library.
 
-# Ask the user to enter the coordinates of the first point
-x1 = float(input("Enter x1: "))
-y1 = float(input("Enter y1: "))
-# Ask the user to enter the coordinates of the second point
-x2 = float(input("Enter x2: "))
-y2 = float(input("Enter y2: "))
+## How to Run
 
-# Compute the distance using the distance formula
-distance = math.sqrt(math.pow(x2 - x1, 2) + math.pow(y2 - y1, 2))
+1. Open the program file in VS Code, Replit, or Google Colab.
 
-# Compute the distance using the distance formula
-print(f"\nThe distance between the two points is: {distance:.2f}")
+2. Run the program.
+
+3. Enter the values for x1, y1, x2, and y2.
+
+4. Check the distance displayed on the screen.
+
+## Input Needed
+
+- x1
+
+- y1
+
+- x2
+
+- y2
+
+## Sample Output
+
+Enter x1: 2
+
+Enter y1: 3
+
+Enter x2: 7
+
+Enter y2: 8
+
+The distance between the two points is: 7.07
+
+## Author
+
+Name: Christian Louiz G. Eguilos
+
+Section: 8-Sampaguita
+
