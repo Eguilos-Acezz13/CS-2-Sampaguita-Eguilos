@@ -41,3 +41,20 @@ else:
 
 # Display the result
 print("Result:", result)
+
+#Short Reflection
+
+#1. What functions did you create?
+#I created functions for addition, subtraction, multiplication, and division.
+
+#2. What parameters did your functions use?
+#Each function used num1 and num2.
+
+#3. What arguments were passed when the functions were called?
+#The two numbers entered by the user were passed as arguments.
+
+#4. How did your program use the returned value?
+#It stored the returned value in the result variable and displayed it.
+
+#5. Why is it better to divide the program into functions?
+#Functions make the code more organized, reusable, and easier to understand and fix.
